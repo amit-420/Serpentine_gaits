@@ -4,10 +4,10 @@
 
 ## ros_workbench package was used for controlling.
 
-### Catepiller motion
+1. Catepiller motion:
 
-### Linear Undulaition:
+2. Linear Undulaition:
 
-### Side winding:
+3. Side winding:
 
-### Rolling:
+4. Rolling:
